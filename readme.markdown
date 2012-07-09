@@ -1,6 +1,6 @@
 Info:
 ---------------------
-Zipcode distance calculator. 
+Zipcode distance calculator. Saw a Postcodes repo in jedberg's for Canadian post codes and wanted to try building my own.
 
 Haversine formula from Wayne Dick:
 [http://www.platoscave.net/blog/2009/oct/5/calculate-distance-latitude-longitude-python/](http://www.platoscave.net/blog/2009/oct/5/calculate-distance-latitude-longitude-python/)
